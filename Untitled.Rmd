@@ -1,0 +1,67 @@
+---
+title: "Gene Mutation and DNA Repair"
+author: "Antoni J. Szeglowski"
+output:
+  pdf_document: default
+html_document:
+  df_print: paged
+word_document: default
+---
+#Effects of Mutations on Gene Structure and Function
+##Gene mutations are molecular changes in the DNA sequence of a gene
+  A **point mutation** is a change in a single base pair within the DNA. In **base substitutions**, one base is substituted for another. A change of a pyrimidine to another pyrimidine, such as C to T, or a purine to another purine, such as A to G, is called a **transition**. A **transversion** is when a purine and pyrimidine are interchanged, this occurs less frequently than a transition. Short sequences of DNA may be deleted or added to the chromosomal DNA. 
+
+##Gene Mutations Can Alter the Coding Sequence Within a Gene
+**Silent mutations** are those that do not alter the amino acid sequence of the polypeptide, even though the base sequence has changed. Since the genetic code is degenerate, silent mutations can occur in some bases within a codon, such as the third base, so the specific amino acid is not changed.
+
+**Missense mutations** are base substitutions for which an amino acid change occurs. A well-known example of a missense mutation can be seen in sickle cell disease, where a mutation causes a change from glutamic acid to valine. This single mutation will alter the structure and function of the hemoglobin protein.
+
+**Nonsense mutations** involve a change from a normal codon to a stop codon. This change will terminate the translation of a polypeptide earlier than expected.
+**Frameshift mutation** involve the addition or deletion of a number of nucleotides that is not divisible by 3, this causes a shift in the reading frame. Because codons are divisible by 3, this shifts the reading frame. The result will be translation of the mRNA that results in a different amino acid sequence downstream from the mutation. 
+
+Except for silent mutations, new mutations are more likely to produce polypeptides with reduced function rather than enhanced. Nonsense mutations will produce shorter polypeptides, which are unlikely to function properly. Frameshift mutations alter the sequence of polypeptides and will likely disrupt function. Missense mutations are less likely to alter function since they involve a change in a single amino acid within polypeptides rather than hundreds. When a missense mutation has no detectable change in function of the polypeptide, it is said to be a **neutral mutation**. Silent mutations are also said to be neutral. Missense mutations that substitute amino acids with similar chemistry are more likely to be neutral. 
+
+#Gene Mutations Are Also Given Names That Describe How They Affect the Wild-Type Genotype and Phenotye
+
+**Forward mutations** are mutations that go from wild-type to mutant. A **reverse mutation** is when you have a mutant that goes back to the wild-type. A **true reversion** occurs when you return to the original amino acid at the mutant site. A **second site reversion** occurs when a change at a second site compensates for the change that occurred at the first. 
+
+A second site reversion would occur if a mutation changes an amino acid at position 1, which changes the  structure from having a proper shape to an improper shape, and that mutation is then "fixed" by a mutation at another amino acid at a position other than position 1.
+
+#Suppressor Mutations Reverse the Phenotypic Effects of Another Mutation
+**Suppressor mutations** or **suppression** occurs when a mutation occurs that acts to "suppress" the phenotypic effects of another mutation. A suppressor differs from a reversion, since it occurs on a different site (second gene) from the first mutation. **Nonsense suppression** occurs when a second site mutation reverts a **nonsense** mutation (premature stop codon).
+
+tRNA suppressors can arise by mutations in a gene encoding a tRNA. For example, the wild-type *tyrT* gene encodes a tRNA that recognizes a 5' UAC 3' codon in the mRNA and inserts tyrosine into the growing polypeptide chain. A mutation in the gene changes the anticodon so that it recognizes the stop codon 5' UAG 3' in the mRNA and, instead of terminating, inserts a tryrosine at that position in the polypeptide chain. The mutant form of the *tyrT* gene is called *supF*. <!-- COPIED DIRECTLY FROM http://www.sci.sdsu.edu/~smaloy/MicrobialGenetics/topics/rev-sup/sup-tRNA.html --> *To summarize, a suppressor tRNA is a tRNA with a mutation (usually) in the anticodon that allows it to recognize a stop codon and insert an amino acid in its place.*
+
+Suppressors can be classified according to their relative locations with regard to the mutation they suppress. When the mutation site is within the same gene as the first, the mutation is termed an **intragenic suppressor**. Intragenic suppressors often produce a change in protein structure that compensates for an abnormality in protein structure caused by the first mutation. In contrast, **intergenic suppressors** are suppressor mutations that occur in a different gene from the first mutation. 
+
+##Changes in Chromosome Structure Can Affect the Expression of a Gene
+Chromosome rearrangements, in some cases, may influence gene because of a chromosomal **breakpoint**.  A break point is a region where two chromosome pieces break and then come rejoin with other chromosome pieces. In some cases, the gene may be left intact, but it's expression changed. The change in gene location is said to have a **position effect*.
+
+#Causes of Mutations
+**Spontaneous mutations** are changes in DNA structure that result from natural biological or chemical processes.  These can happen from mistakes during replication, rare **tautomers** (occur when there is an unusual arrangements of bases), and because of **deamination** of bases (cytosine or 5-methyl cytosine spontaneously deaminates to create uracil or thymine). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
